@@ -5,4 +5,4 @@ All palettes are taken from the repository: [CloudburstMC/Data](https://github.c
 
 ## How to update
 1. Add the `vanilla_palette_(protocol_version).nbt` file to the repository.
-2. Add the palette protocol to `vanilla_palette_protocols.json`
+2. Add the palette protocol to `vanilla_palette_protocols.json`.
